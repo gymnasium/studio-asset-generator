@@ -1,7 +1,7 @@
 # Setup
 title: Gymnasium Studio Assets Generator
 url: https://gymnasium.github.io
-baseurl:
+baseurl: studio-asset-generator
 timezone: America/New_York
 
 # Building
